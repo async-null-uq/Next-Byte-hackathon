@@ -7,7 +7,7 @@
 
 **InboxSentinel** is a state-of-the-art AI Agent designed for high-stakes productivity. It doesn't just "filter" emails—it remembers your professional history, triages incoming messages by importance, and lets you respond to critical business leads from Telegram with a single click.
 
-**Why we use JSON?": We chose a JSON-based persistent memory to keep the agent lightweight and privacy-focused, ensuring all user data stays local and easily auditable without third-party cloud database overhead.
+**Why we use JSON?"**: We chose a JSON-based persistent memory to keep the agent lightweight and privacy-focused, ensuring all user data stays local and easily auditable without third-party cloud database overhead.
 
 ---
 
