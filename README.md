@@ -42,6 +42,22 @@ InboxSentinel bridges the gap between **Automation** and **Authenticity**:
 6.  **Update:** Once sent, the conversation is saved back to `clean_memory.json` to improve future drafts.
 
 ---
+## The Difference between the Market "Email-Reply-bot" vs My Project
+<div align="center">
+
+| Feature                     | Normal AI Email Writer | My Project |
+|-----------------------------|------------------------|------------|
+| User must paste email       | ✅                     | ❌         |
+| Works automatically         | ❌                     | ✅         |
+| Remembers past interactions | ❌                     | ✅         |
+| Learns communication style  | ❌                     | ✅         |
+| Filters importance          | ❌                     | ✅         |
+| Has workflow loop           | ❌                     | ✅         |
+| Acts like assistant         | ❌                     | ✅         |
+
+</div>
+
+---
 
 ## 🛠️ Installation & Environment Setup
 
