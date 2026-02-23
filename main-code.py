@@ -40,7 +40,8 @@ def get_history(sender_email):
 
 def check_importance(subject, body):
     """AI determines if the mail needs immediate attention."""
-    prompt = f"Subject: {subject}\nBody: {body}\n\nIs this email 'Important' (work, personal query, urgent) or 'Junk' (newsletter, ad, spam)? Answer only 1 word: 'Important' or 'Junk'."
+    # Change your prompt to:
+    prompt = f"Analyze this email:\nSubject: {subject}\nBody: {body}\n\nThink step-by-step: Who is the sender? Is there a call to action? Then, conclude with 'Classification: Important' or 'Classification: Junk'."
     res = client.chat.completions.create(
         model="arcee-ai/trinity-large-preview:free",
         messages=[{"role": "user", "content": prompt}]
