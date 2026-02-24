@@ -191,8 +191,6 @@ The "brain" of this project is located in `main-code.py`. This script handles th
 
 ---
 
----
-
 ## 🎥 Project Demo
 
 <div align="center">
@@ -206,8 +204,6 @@ The "brain" of this project is located in `main-code.py`. This script handles th
 <p><b>Click the image to watch the full demo on YouTube</b></p>
 
 </div>
-
----
 
 ---
 ## ✅ All Set!
