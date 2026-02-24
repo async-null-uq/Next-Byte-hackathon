@@ -191,5 +191,24 @@ The "brain" of this project is located in `main-code.py`. This script handles th
 
 ---
 
+---
+
+## 🎥 Project Demo
+
+<div align="center">
+
+<a href="https://youtu.be/KQm9x-1SfFs" target="_blank">
+  <img src="https://img.youtube.com/vi/KQm9x-1SfFs/maxresdefault.jpg" 
+       alt="InboxSentinel Demo Video" 
+       width="800">
+</a>
+
+<p><b>Click the image to watch the full demo on YouTube</b></p>
+
+</div>
+
+---
+
+---
 ## ✅ All Set!
 You are now ready to go. Run the script, sit back, and let **InboxSentinel AI** turn your cluttered inbox into a high-performance executive feed.
